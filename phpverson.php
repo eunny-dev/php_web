@@ -7,7 +7,7 @@ if ($mysqli -> connect_errno) {
   exit();
 }
 
-echo $mysqserver_versionli -> ;
+echo $mysqserver_versionli ->
 
 
 $mysqli -> close();
